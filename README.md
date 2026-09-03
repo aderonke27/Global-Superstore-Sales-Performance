@@ -1,4 +1,6 @@
 # Global-Superstore-Sales-Performance
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Domain](https://img.shields.io/badge/Domain-Sales%20Analytics%20%7C%20Business%20Intelligence-blue)
 # Global Superstore Sales & Profitability Dashboard
 
 An executive Business Intelligence dashboard built in Power BI, analyzing 51,290 orders from a global retail dataset to help management track sales, profitability, customer behavior, and regional performance.
