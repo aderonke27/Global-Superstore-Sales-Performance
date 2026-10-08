@@ -11,32 +11,33 @@
 6. [Data Cleaning Process](#data-cleaning-process)
 7. [Data Analysis](#data-analysis)
 8. [Dashboard](#dashboard)
-9. [Key Insights](#key-insights)
+9. [Key Findings](#key-findings)
 10. [Recommendations](#recommendations)
 11. [Conclusion](#conclusion)
 12. [Project Files](#project-files)
 13. [Contact Information](#contact-information)
  
-# Global Superstore Sales & Profitability Dashboard
-
-An executive Business Intelligence dashboard built in Power BI, analyzing 51,290 orders from a global retail dataset to help management track sales, profitability, customer behavior, and regional performance.
-
-Built as part of a BI consulting engagement for **AnalystLab Africa Consulting**.
-
 ## Project Overview
-
 A national retail company needed a single, interactive view of business performance instead of relying on scattered spreadsheets and manual reports. This project turns raw transactional sales data into a dashboard leadership can actually use to make decisions — plus a supporting report translating the numbers into insights, risks, opportunities, and recommendations.
 
-## Dataset
+## Problem Statement
 
+## Objectives
+
+## Dataset Description
 - **Source:** Global Superstore sales dataset
 - **Size:** 51,290 orders, 2011–2014
 - **Fields:** Order/Ship date, Category, Sub-Category, Segment, Region, Market, Sales, Profit, Discount, Quantity, Ship Mode, Order Priority, and more
 
-## Dashboard Features
+## Tools Used
+* Power BI: Power query, DAX measures, Dashboard development
+
+## Data Cleaning Process
+
+## Data Analysis
+
+## Dashboard
 <img width="1415" height="799" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/6b364021-1b83-4313-853a-f9d9c8dbe221" />
-
-
 - **KPI cards** — Total Sales, Total Profit, Total Orders, Average Sales, Profit Margin
 - **Category × Segment matrix** — order volume broken down by Consumer / Corporate / Home Office
 - **Top 5 countries by orders**
@@ -61,10 +62,11 @@ A national retail company needed a single, interactive view of business performa
 - Orders discounted above 30% (~1 in 5 of all orders) collectively lost $793K.
 - **Technology** is the highest-margin category (14.0%), ahead of Office Supplies and Furniture.
 
+## Recommendations
+
+## Conclusion
+
+## Project Files
 Full analysis, business risks, opportunities, and recommendations are in the [BI Overview & Insights Report](./BI_Overview_Insights_Report.docx).
 
-## Tools Used
-
-- **Power BI** — data modeling, DAX measures, dashboard build
-
-Same content as the file above — you can copy this straight in, or just use the `.md` file I already generated. Let me know if you want the **Repo Contents** list trimmed to match what you're actually uploading.
+## Contact Information
