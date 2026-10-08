@@ -19,10 +19,27 @@
 14. [Contact Information](#contact-information)
  
 ## Project Overview
+In this project, I play the role of a Business Intelligence Analyst working for a national retail company. Management asked for an executive dashboard that enables them monitor sales performance, profitability, customer behavior, and regional performance, and I prepared the data, built the dashboard in Power BI, and wrote up the findings and recommendations based on my analysis.
 
 ## Problem Statement
+Senior management has raw transaction data but no quick way to see how the business is performing. They need to know where sales and profit come from, which customers, regions, categories, and products drive results, and where money is being lost. Without a single view, those questions take too long to answer and decisions get delayed.
+
+This dashboard puts the answers on one page so management can filter, compare, and make informed strategic decisions.
 
 ## Objectives
+Show performance by region, country, customer segment, product category, and product.
+Show how sales move over time.
+Turn the findings into business insights, risks, opportunities, and recommendations.
+
+## Business Questions
+The dashboard is built to answer seven questions from management:
+* What is the overall sales performance of the company?
+* Which regions generate the highest sales and profit?
+* Which customer segments contribute the most revenue?
+* Which product categories perform best?
+* Which products are the most profitable?
+* What trends can be observed over time?
+* What recommendations should management implement to improve business performance?
 
 ## Dataset Description
 
