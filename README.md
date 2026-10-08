@@ -70,3 +70,5 @@ A national retail company needed a single, interactive view of business performa
 Full analysis, business risks, opportunities, and recommendations are in the [BI Overview & Insights Report](./BI_Overview_Insights_Report.docx).
 
 ## Contact Information
+* Email: aladeloyeesther616@gmail.com
+* LinkedIn: https://linkedin.com/in/estheraderonke
