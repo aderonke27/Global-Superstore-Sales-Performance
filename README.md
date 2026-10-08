@@ -67,6 +67,8 @@ A national retail company needed a single, interactive view of business performa
 ## Conclusion
 
 ## Project Files
+Full analytical report including methodology, key insights, and strategic recommendations
+[View Sales Report (PDF)](./AdventureWorks_Sales_Report.pdf)
 Full analysis, business risks, opportunities, and recommendations are in the [BI Overview & Insights Report](./BI_Overview_Insights_Report.docx).
 
 ## Contact Information
