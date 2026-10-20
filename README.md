@@ -19,7 +19,7 @@
 14. [Contact Information](#contact-information)
  
 ## Project Overview
-In this project, I play the role of a Business Intelligence Analyst working for a national retail company. Management asked for an executive dashboard that enables them monitor sales performance, profitability, customer behavior, and regional performance, and I prepared the data, built the dashboard in Power BI, and wrote up the findings and recommendations based on my analysis.
+In this project, I worked as a Business Intelligence Analyst for a national retail company. Management asked for an executive dashboard that enables them monitor sales performance, profitability, customer behavior, and regional performance, and I prepared the data, built the dashboard in Power BI, and wrote up the findings and recommendations based on my analysis.
 
 ## Problem Statement
 Senior management has raw transaction data but no quick way to see how the business is performing. They need to know where sales and profit come from, which customers, regions, categories, and products drive results, and where money is being lost. Without a single view, those questions take too long to answer and decisions get delayed.
@@ -37,9 +37,7 @@ The dashboard is built to answer seven questions from management:
 * What recommendations should management implement to improve business performance?
 
 ## Dataset Description
-The dataset is the Global Superstore sales data (Global_Superstore_data.csv). It has 51,290 rows and 24 columns, and each row is one order line. Order dates run from 1 January 2011 to 31 December 2014.
-
-Across the dataset there are 25,035 unique order IDs, 1,590 customers, 10,292 products and 147 countries, grouped into 13 regions and 7 markets (US, Canada, LATAM, EU, EMEA, Africa and APAC).
+The dataset is the Global Superstore sales data (Global_Superstore_data.csv). It has 51,290 rows and 24 columns, and each row is one order line. Order dates run from 1 January 2011 to 31 December 2014. Across the dataset there are 25,035 unique order IDs, 1,590 customers, 10,292 products and 147 countries, grouped into 13 regions and 7 markets (US, Canada, LATAM, EU, EMEA, Africa and APAC).
 
 The columns fall into a few groups:
 * Order details: Row ID, Order ID, Order Date, Ship Date, Ship Mode and Order Priority.
@@ -80,7 +78,20 @@ Two slicer groups let users filter the whole page by Order Priority (Critical, H
 
 ## Dashboard
 <img width="1446" height="811" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/7e1fe411-06e5-419d-9d69-f47b6e622d42" />
+The dashboard has four headline numbers at the top:
+* 11,162 total customers
+* 5.29K total subscriptions
+* 371.99 seconds average call duration
+* 47.38% conversion rate.
 
+Below them, seven charts break the conversion rate down by customer group and contact pattern. The charts cover conversion rate by:
+* Occupation
+* Days since last contact (pdays group)
+* Contact method
+* Age group
+* Number of calls
+* Account balance
+* Outcome of the previous campaign
 The dashboard has three layers. The top row holds the five KPI cards and the slicers. The middle row covers orders by category and segment, the top 5 countries by orders, sales share by segment and profit by category. The bottom row shows the top 10 products by profit, sales by region and the yearly sales trend.
 
 ## Key Findings
