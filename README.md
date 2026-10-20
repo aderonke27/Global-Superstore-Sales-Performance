@@ -53,9 +53,7 @@ Ship Mode has four values: Same Day, First Class, Second Class and Standard Clas
 * Power Query for cleaning and transforming the data.
 
 ## Importing the Dataset
-Open Power BI Desktop and select Get Data > Text/CSV.
-Choose Global_Superstore_data.csv and review the preview.
-Click Transform Data to open Power Query and clean the data before loading it into the model.
+The dataset was loaded into Power BI Desktop through: Get Data > Text/CSV into power query for review and transformation before it was then loaded into the model for visualization development.
 
 ## Data Cleaning and Transformation
 The cleaning was done in Power Query before building any visuals:
@@ -78,21 +76,19 @@ Two slicer groups let users filter the whole page by Order Priority (Critical, H
 
 ## Dashboard
 <img width="1446" height="811" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/7e1fe411-06e5-419d-9d69-f47b6e622d42" />
-The dashboard has four headline numbers at the top:
-* 11,162 total customers
-* 5.29K total subscriptions
-* 371.99 seconds average call duration
-* 47.38% conversion rate.
 
-Below them, seven charts break the conversion rate down by customer group and contact pattern. The charts cover conversion rate by:
-* Occupation
-* Days since last contact (pdays group)
-* Contact method
-* Age group
-* Number of calls
-* Account balance
-* Outcome of the previous campaign
-The dashboard has three layers. The top row holds the five KPI cards and the slicers. The middle row covers orders by category and segment, the top 5 countries by orders, sales share by segment and profit by category. The bottom row shows the top 10 products by profit, sales by region and the yearly sales trend.
+The dashboard has three layers.The top row holds the five KPI cards and the slicers.
+
+The middle row covers:
+* Orders by category and segment
+* The top 5 countries by orders
+* Sales share by segment
+* Profit by category.
+
+The bottom row shows:
+* The top 10 products by profit
+* Sales by region
+* The yearly sales trend.
 
 ## Key Findings
 * The business generated $12.64M in total sales and $1.47M in total profit from about 51K orders, which gives an overall profit margin of 11.61%. Average sales per order line were $246.49.
